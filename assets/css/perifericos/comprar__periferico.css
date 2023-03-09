@@ -1,0 +1,17 @@
+.comprar__periferico{
+    background-color: rgb(49, 49, 49);
+    
+    padding: 5px;
+    margin-left: 120px;
+    margin-bottom: 25px;
+    
+    border-radius: 10px;
+    color: #fdfdfd;
+    padding: 1rem;
+    transition: all 0.5s ease-in-out;
+    
+}
+.comprar__periferico:hover{
+    background-color: #141414;
+    cursor: pointer;
+}

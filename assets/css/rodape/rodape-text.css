@@ -1,0 +1,11 @@
+.rodape-text{
+    margin: 0 auto;
+    text-align: center;
+    font-size: 25px;
+}
+
+.rodape-text:hover{
+    color: #a8a8a8;
+    transition: 0.5s;
+    cursor: pointer;
+}

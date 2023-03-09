@@ -1,0 +1,19 @@
+.banner_titulo{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    width: 100%;
+    font-size: 70px;
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    color: #fdfdfd;
+    text-shadow: 0 4px 4px rgb(0,0,0,0.75);
+    transform: translate(-50%, -50%);
+    
+}
+
+.banner_titulo:hover{
+    color: #636363;
+    cursor: pointer;
+}

@@ -1,0 +1,13 @@
+.ri-shopping-cart-2-line{
+    width: 500px;
+ 
+
+    color: white;
+    
+    margin-left: 650px;
+}
+
+.ri-shopping-cart-2-line:hover{
+    color:  #a8a8a8;
+    transition: 0.5s;
+}

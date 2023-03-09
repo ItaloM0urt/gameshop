@@ -1,0 +1,14 @@
+.menu__login{
+    color: white;
+    padding: auto;
+    margin-right: 100px;
+    text-decoration: none;
+    text-transform: lowercase;
+    font-size: 25px;
+}
+
+.menu__login:hover{
+    color: #a8a8a8;
+    transition: 0.5s;
+    cursor: pointer;
+}

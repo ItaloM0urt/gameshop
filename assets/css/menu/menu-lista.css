@@ -1,0 +1,8 @@
+.menu__lista{
+    display: flex;
+    margin-left: 420px;
+
+    font-size: large;
+    list-style: none;
+    text-align: center;
+}

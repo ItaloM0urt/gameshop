@@ -1,0 +1,24 @@
+.logo{
+    padding: 0 2rem;
+    text-align: center;
+    padding-top: 50px;
+    width: 150px;
+    height: 150px;
+    color: white;
+    margin-bottom: 0;
+    margin-top: 55px;
+    font-size: 30px;
+    
+    
+}
+
+.logo:hover{
+    color:  #4d4d4d;
+    transition: 1s;
+    cursor:pointer;
+}
+
+.logo_link{
+    text-decoration: none;
+}
+
